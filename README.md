@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Indian Semi Acted Facial Expression Database (iSAFE)
 
-You can use the [editor on GitHub](https://github.com/shivendra2015iiit/Indian-Semi-Acted-Facial-Expression-Database-iSAFE-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ISAFE is one of it's kind database for human emotions. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Human emotion recognition is of par importance for human computer interaction. Dataset and it's quality plays important role in this domain. In this paper we propose a new dataset which contains **395 clips of 44 volunteers** between 17 to 22 year of age. All the clips are manually splitted from the video recorded during stimulent clips are watched by volunteers. Facial expressions are self annotated by the volunteers as well as cross annotated by annotators. Analysis of the dataset is done using Resnet34 neural network and baseline for the dataset is provided for research and comparison. 
 
-### Markdown
+To download database you need to fill up end user license (EULA). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1) Download EULA. [Link](url)
+2) Fill up details
+3) Upload on [Link](url)
+4) We will email you with the details to download the Database.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shivendra2015iiit/Indian-Semi-Acted-Facial-Expression-Database-iSAFE-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you for visiting us.
+To know more about the database read [this](url) paper.
