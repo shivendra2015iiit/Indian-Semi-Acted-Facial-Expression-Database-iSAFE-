@@ -8,11 +8,11 @@ Human emotion recognition is of par importance for human computer interaction. D
 
 To download database you need to fill up end user license (EULA). 
 
-1) Download EULA. [Link](url) 
+1) Download EULA. [Link](url) <br>
 
-2) Fill up details
+2) Fill up details <br>
 
-3) Upload on [Link](url)
+3) Upload on [Link](url)<br>
 
 4) We will email you with the details to download the Database.
 
