@@ -17,6 +17,7 @@ To download database you need to fill up end user license (EULA).
 4) We will email you with the details to download the Database.
 
 
-
+ #1 Happy #2 Sad #3 Surprise #4 Disgust #5 Fear #6 Angry #7 Uncertain #8 Noemotion
+ 
 Thank you for visiting us.
 To know more about the database read [this](url) paper.
