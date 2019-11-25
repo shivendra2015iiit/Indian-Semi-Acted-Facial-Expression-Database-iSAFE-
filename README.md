@@ -8,7 +8,7 @@ Human emotion recognition is of par importance for human computer interaction. D
 
 To download database you need to fill up end user license (EULA). 
 
-1) Download EULA. [Link](https://github.com/shivendra2015iiit/Indian-Semi-Acted-Facial-Expression-Database-iSAFE-/blob/master/EULA%20iSAFE.pdf) <br/>
+1) Download EULA. [Link](https://github.com/shivendra2015iiit/Indian-Semi-Acted-Facial-Expression-Database-iSAFE-/blob/master/EULA.pdf) <br/>
 
 2) Fill up details <br/>
 
