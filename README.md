@@ -14,7 +14,7 @@ To download database you need to fill up end user license (EULA).
 
 3) Upload on [Link](https://docs.google.com/forms/d/e/1FAIpQLSdzAEFtcFWhvZB7eud7Y8kRb9D2UMTzhgzRqdJJTv559kUTPQ/viewform)<br>
 
-4) We will email you with the details to download the Database.
+4) We will email you with the details to download the Database. [ You can always reach out at shivam9935@gmail.com if there is any urgency or delay in processing]
 
 
  #1 Happy #2 Sad #3 Surprise #4 Disgust #5 Fear #6 Angry #7 Uncertain #8 Noemotion
